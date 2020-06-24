@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="blog@localhost" uuid="c10b4e4e-d2e1-4830-b2d0-8242bc3c34c7">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/blog</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="blog2@localhost" uuid="63ef1d06-9207-4321-9dc8-8328880751ff">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/blog2</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="rm-yyz99.mysql.zhangbei.rds.aliyuncs.com" uuid="3ee1cf8b-01fc-4b2a-8e34-d3faa3ca09d2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://rm-yyz99.mysql.zhangbei.rds.aliyuncs.com:3306/blog2</jdbc-url>
+    </data-source>
+  </component>
+</project>
